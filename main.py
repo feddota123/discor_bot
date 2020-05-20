@@ -118,5 +118,5 @@ async def coin(ctx):
 async def on_ready():
 	print("online")
 
-print('Bot by Feddota')
+print('Bot by Feddota & RZ')
 bot.run(TOKEN)
